@@ -12,4 +12,4 @@
 ("USA", "Washington D.C")
 ("Italy", "Rome")
 ("Spain", "Madrid")
-
+("Mexico", "Mexico city")
