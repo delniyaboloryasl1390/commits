@@ -11,3 +11,5 @@
 ("UK", "London")
 ("USA", "Washington D.C")
 ("Italy", "Rome")
+("Spain", "Madrid")
+
