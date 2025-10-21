@@ -25,3 +25,4 @@
 ("Finland", "Helsinki")
 ("Greece", "Athens")
 ("Portugal", "Lisbon")
+("Chile", "Santiago)
