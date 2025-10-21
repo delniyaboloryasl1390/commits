@@ -37,3 +37,4 @@
 ("Poland", "Warsaw")
 ("Ukraine", "Kyiv")
 ("Vietnam", "Hanoi")
+("Thailand", "Bangkok")
