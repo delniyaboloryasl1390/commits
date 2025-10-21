@@ -35,3 +35,4 @@
 ("Belgium", "Brussels")
 ("Netherlands", "Amsterdam")
 ("Poland", "Warsaw")
+("Ukraine", "Kyiv")
