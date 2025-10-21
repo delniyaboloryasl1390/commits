@@ -31,3 +31,4 @@
 ("Zealand", "Wellington")
 ("Ireland", "Dublin")
 ("Austria", "Vienna")
+("Switzerland", "Bern")
