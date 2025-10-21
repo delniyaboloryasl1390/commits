@@ -33,3 +33,4 @@
 ("Austria", "Vienna")
 ("Switzerland", "Bern")
 ("Belgium", "Brussels")
+("Netherlands", "Amsterdam")
