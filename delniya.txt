@@ -4,3 +4,4 @@
 ("Japan", "Tokyo")
 ("China", "Beijing")
 ("India", "Dehli")
+("Russia", "Moscow")
