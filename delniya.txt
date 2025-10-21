@@ -6,3 +6,4 @@
 ("India", "Dehli")
 ("Russia", "Moscow")
 ("Brazil", "Brasilia")
+("Canada", "Ottawa")
