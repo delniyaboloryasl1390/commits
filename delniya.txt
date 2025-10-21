@@ -47,3 +47,4 @@
 ("Kenya", "Nairobi")
 ("Morocco", "Rabat")
 ("Israel", "Jerusalem")
+("Cuba", "Havana")
