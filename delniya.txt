@@ -7,3 +7,4 @@
 ("Russia", "Moscow")
 ("Brazil", "Brasilia")
 ("Canada", "Ottawa")
+("Australia", "Canberra")
