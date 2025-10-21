@@ -16,3 +16,4 @@
 ("South korea", "Seoul")
 ("Egypt", "Cairo")
 ("Turkey", "Ankara")
+("South Africa", "Pretoria")
