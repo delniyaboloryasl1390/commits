@@ -38,3 +38,4 @@
 ("Ukraine", "Kyiv")
 ("Vietnam", "Hanoi")
 ("Thailand", "Bangkok")
+("Indonesia", "Jakarta")
