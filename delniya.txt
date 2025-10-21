@@ -42,3 +42,4 @@
 ("Malaysia", "Kuala Lumpur")
 ("Philippines", "Manila")
 ("Pakistan", "Islamabad")
+("Bangladesh", "Dhaka")
