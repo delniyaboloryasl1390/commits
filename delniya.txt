@@ -24,3 +24,4 @@
 ("Norway", "Oslo")
 ("Finland", "Helsinki")
 ("Greece", "Athens")
+("Portugal", "Lisbon")
