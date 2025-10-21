@@ -19,3 +19,4 @@
 ("South Africa", "Pretoria")
 ("Argentina", "Buenos Aires")
 ("Nigeria", "Abuja")
+("Saudi Arabia", "Riyadh")
