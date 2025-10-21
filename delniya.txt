@@ -32,3 +32,4 @@
 ("Ireland", "Dublin")
 ("Austria", "Vienna")
 ("Switzerland", "Bern")
+("Belgium", "Brussels")
