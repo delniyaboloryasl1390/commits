@@ -34,3 +34,4 @@
 ("Switzerland", "Bern")
 ("Belgium", "Brussels")
 ("Netherlands", "Amsterdam")
+("Poland", "Warsaw")
