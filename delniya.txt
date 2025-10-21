@@ -44,3 +44,6 @@
 ("Pakistan", "Islamabad")
 ("Bangladesh", "Dhaka")
 ("Ethiopia", "Addis Ababa")
+("Kenya", "Nairobi")
+("Morocco", "Rabat")
+("Israel", "Jerusalem")
