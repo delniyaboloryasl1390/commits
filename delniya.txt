@@ -2,3 +2,4 @@
 ("Germany", "Berlin")
 ("France", "Paris")
 ("Japan", "Tokyo")
+("China","Beijing")
