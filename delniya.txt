@@ -39,3 +39,4 @@
 ("Vietnam", "Hanoi")
 ("Thailand", "Bangkok")
 ("Indonesia", "Jakarta")
+("Malaysia", "Kuala Lumpur")
