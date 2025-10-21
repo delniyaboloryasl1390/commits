@@ -8,3 +8,4 @@
 ("Brazil", "Brasilia")
 ("Canada", "Ottawa")
 ("Australia", "Canberra")
+("UK", "London")
