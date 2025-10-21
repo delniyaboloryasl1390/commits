@@ -28,3 +28,4 @@
 ("Chile", "Santiago")
 ("Peru", "Lima")
 ("Colombia", "Bogota")
+("Zealand", "Wellington")
