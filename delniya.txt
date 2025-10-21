@@ -26,4 +26,5 @@
 ("Greece", "Athens")
 ("Portugal", "Lisbon")
 ("Chile", "Santiago")
-(""Peru", "Lima")
+("Peru", "Lima")
+("Colombia", "Bogota")
