@@ -43,3 +43,4 @@
 ("Philippines", "Manila")
 ("Pakistan", "Islamabad")
 ("Bangladesh", "Dhaka")
+("Ethiopia", "Addis Ababa")
