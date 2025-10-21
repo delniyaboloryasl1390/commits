@@ -21,3 +21,4 @@
 ("Nigeria", "Abuja")
 ("Saudi Arabia", "Riyadh")
 ("Sweden", "Stockolm")
+("Norway", "Oslo")
