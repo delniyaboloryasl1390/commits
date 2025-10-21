@@ -9,3 +9,4 @@
 ("Canada", "Ottawa")
 ("Australia", "Canberra")
 ("UK", "London")
+("USA", "Washington D.C")
