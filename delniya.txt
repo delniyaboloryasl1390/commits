@@ -14,3 +14,4 @@
 ("Spain", "Madrid")
 ("Mexico", "Mexico city")
 ("South korea", "Seoul")
+("Egypt", "Cairo")
