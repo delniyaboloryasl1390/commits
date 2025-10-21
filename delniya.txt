@@ -13,3 +13,4 @@
 ("Italy", "Rome")
 ("Spain", "Madrid")
 ("Mexico", "Mexico city")
+("South korea", "Seoul")
