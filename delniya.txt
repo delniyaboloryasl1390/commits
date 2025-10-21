@@ -36,3 +36,4 @@
 ("Netherlands", "Amsterdam")
 ("Poland", "Warsaw")
 ("Ukraine", "Kyiv")
+("Vietnam", "Hanoi")
