@@ -20,3 +20,4 @@
 ("Argentina", "Buenos Aires")
 ("Nigeria", "Abuja")
 ("Saudi Arabia", "Riyadh")
+("Sweden", "Stockolm")
