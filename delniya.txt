@@ -1,3 +1,4 @@
 ("Iran", "Tehran")
 ("Germany", "Berlin")
 ("France", "Paris")
+("Japan", "Tokyo")
