@@ -40,3 +40,4 @@
 ("Thailand", "Bangkok")
 ("Indonesia", "Jakarta")
 ("Malaysia", "Kuala Lumpur")
+("Philippines", "Manila")
