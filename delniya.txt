@@ -30,3 +30,4 @@
 ("Colombia", "Bogota")
 ("Zealand", "Wellington")
 ("Ireland", "Dublin")
+("Austria", "Vienna")
