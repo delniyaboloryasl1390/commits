@@ -17,3 +17,4 @@
 ("Egypt", "Cairo")
 ("Turkey", "Ankara")
 ("South Africa", "Pretoria")
+("Argentina", "Buenos Aires")
