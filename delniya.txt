@@ -5,4 +5,4 @@
 ("China", "Beijing")
 ("India", "Dehli")
 ("Russia", "Moscow")
-("Brazil", "Brasilia"s)
+("Brazil", "Brasilia")
